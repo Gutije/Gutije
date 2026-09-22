@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Banner dinámico animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Jesús%20Gutiérrez&fontSize=85&animation=fadeIn&fontAlignY=35&desc=%40Gutije%20%7C%20SysAdmin%20%26%20Network%20Architect&descAlignY=55&descSize=22"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Jes%C3%BAs%20Guti%C3%A9rrez&fontSize=85&animation=fadeIn&fontAlignY=35&desc=%40Gutije%20%7C%20SysAdmin%20and%20Network%20Architect&descAlignY=55&descSize=22" />
   <!-- Texto con efecto de escritura -->
   <a href="https://github.com/Gutije">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Estudiante+de+ASIR+(Sistemas+y+Redes);Especialista+en+Automatizaci%C3%B3n+(n8n+%2B+IA);Administrador+de+Servidores+(Linux+%2F+Windows);Arquitecturas+Cisco+y+Docker" alt="Typing SVG" />
