@@ -1,68 +1,89 @@
 <div align="center">
-  <h1>¡Hola! Soy Jesús Gutiérrez (@Gutije) 👨‍💻</h1>
-  <h3>SysAdmin, Network Architect & Automation Enthusiast | Estudiante de ASIR</h3>
-  <img src="https://komarev.com/ghpvc/?username=Gutije&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+  <!-- Banner dinámico animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Jesús%20Gutiérrez&fontSize=85&animation=fadeIn&fontAlignY=35&desc=%40Gutije%20%7C%20SysAdmin%20%26%20Network%20Architect&descAlignY=55&descSize=22"/>
 
----
-
-### 🚀 Sobre mí
-
-Soy un apasionado de la infraestructura de redes, la administración de sistemas y la automatización inteligente. Combino mis estudios en **ASIR** con el despliegue de soluciones reales y entornos *self-hosted*. Mi enfoque principal es optimizar procesos, conectar plataformas y construir arquitecturas sólidas, seguras y escalables.
-
-*   🔭 **Actualmente trabajando en:** Despliegue de flujos de trabajo avanzados con **n8n** sobre Docker, integrando agentes de IA con bots de Telegram y APIs de calendario para soluciones B2B.
-*   🌱 **Profundizando en:** Administración avanzada de terminal en Debian Linux, despliegue de controladores de dominio mediante directivas de Active Directory en Windows Server, y arquitecturas de red Cisco (VLANs, OSPF, RIP, NAT/PAT).
-*   💻 **Explorando:** Diseño, restricciones (CHECK/Regex) y optimización de bases de datos relacionales (MySQL/MariaDB), combinados con scripting en Python y PHP para la gestión de sistemas.
-*   ⚡ **Dato curioso:** Cuando no estoy configurando un *reverse proxy* o estructurando un laboratorio de red en máquinas virtuales, me encontrarás optimizando mecánicas y telemetría en *modding* técnico o investigando el mantenimiento de vehículos.
-
----
-
-### 🛠️ Tech Stack & Herramientas
-
-**Sistemas, Redes & Servidores**
-<br>
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Automatización, Contenedores & DevOps**
-<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-**Desarrollo, Scripting & Bases de Datos**
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
+  <!-- Texto con efecto de escritura -->
   <a href="https://github.com/Gutije">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gutije&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub de Gutije" />
-  </a>
-  <a href="https://github.com/Gutije">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutije&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Estudiante+de+ASIR+(Sistemas+y+Redes);Especialista+en+Automatizaci%C3%B3n+(n8n+%2B+IA);Administrador+de+Servidores+(Linux+%2F+Windows);Arquitecturas+Cisco+y+Docker" alt="Typing SVG" />
   </a>
 </div>
 
----
+<br>
 
-### 📫 Conecta conmigo
+## 🌌 Sobre mi filosofía de trabajo
+
+La tecnología no solo conecta dispositivos, conecta soluciones. Como estudiante de **ASIR**, mi enfoque va más allá de la teoría: construyo, rompo y optimizo entornos *self-hosted* reales. Me apasiona diseñar arquitecturas de red robustas, exprimir al máximo la terminal y automatizar procesos complejos integrando inteligencia artificial en flujos de trabajo de alto impacto.
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ ¿Qué estoy construyendo?</h3>
+      <ul>
+        <li>Despliegue de flujos backend avanzados con <b>n8n</b> y <b>Docker</b>.</li>
+        <li>Integración de <b>Agentes de IA</b> con APIs (Telegram, Google Calendar) para entornos B2B.</li>
+        <li>Configuración de <b>Home Labs</b> con Windows Server (Active Directory) y entornos Debian.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Mis objetivos actuales</h3>
+      <ul>
+        <li>Diseño profundo y scripting de bases de datos relacionales (<b>MySQL/MariaDB</b>).</li>
+        <li>Optimización de enrutamiento y switching (VLANs, OSPF, NAT/PAT) en arquitecturas <b>Cisco</b>.</li>
+        <li>Desarrollar infraestructura como código y dominar arquitecturas escalables.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <!-- Reemplaza los enlaces con tus datos reales -->
+  <h2>⚡ Arsenal Tecnológico ⚡</h2>
+  <p><i>Sistemas, Redes, Contenedores y Desarrollo</i></p>
+
+  <!-- Iconos modernos y minimalistas -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,linux,windows,docker,bash,python,php,js,html,css,mysql&theme=dark&perline=11" alt="Tech Stack" />
+  </a>
+  <br><br>
+  <!-- Badges complementarios -->
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>📈 Métricas de Código</h2>
+  <!-- Estadísticas de GitHub sin fondo para integrarse con el modo oscuro/claro -->
+  <a href="https://github.com/Gutije">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gutije&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8b949e" width="48%" alt="Estadísticas de Gutije" />
+  </a>
+  <a href="https://github.com/Gutije">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gutije&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="48%" alt="Racha de contribuciones" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>📫 Conecta conmigo</h2>
+  <p><i>Siempre dispuesto a hablar sobre redes, servidores, automatización o el mejor setup para un Home Lab.</i></p>
+  
   <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://t.me/TuUsuarioDeTelegram">
+    <img src="https://img.shields.io/badge/Telegram-Escribir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Cierre de banner ondulado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 </div>
